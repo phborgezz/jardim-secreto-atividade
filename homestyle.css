@@ -1,7 +1,14 @@
-.frase p {
-  font-size: 26px;
-  font-style: italic;
-  max-width: 600px;
-  margin: 0 auto;
-  line-height: 1.6;
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background-color: #1a3009;
+  color: #c8d8b0;
+  padding: 20px 40px;
+  font-size: 14px;
+}
+
+.footer-logo {
+  font-size: 24px;
 }
