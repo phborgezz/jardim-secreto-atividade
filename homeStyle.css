@@ -1,0 +1,33 @@
+.Populares-Imagens img{
+    width: 200px;
+    
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
+.Populares{
+
+width: 100%;
+}
+
+.Populares-Imagens {
+    display: flex;
+    justify-content: space-between;
+}
+.Populares-Imagens2 img{
+    width: 200px;
+    
+}
+.Populares-Imagens2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+button{
+    width: 100px;
+    align-self: flex-end;
+    background-color: #8DAA81;
+     margin-top: 20px;
+     padding: 5px;
+}
